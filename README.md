@@ -11,5 +11,4 @@ The main aim of this study is to predict the survival rate of the lung cancer pa
 •	To calculate the logistic regression using confusion matrix
 
 
-#hii
 
